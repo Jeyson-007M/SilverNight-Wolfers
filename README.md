@@ -8,21 +8,14 @@ Bienvenido al repositorio oficial de **SilverNight Wolfers**, una micro-agencia 
 
 🚀 Este repositorio contiene el sitio web principal de la agencia.  
 Puedes visitarlo en:  
-**[https://TU-USUARIO.github.io/silvernight-wolfers/](https://TU-USUARIO.github.io/silvernight-wolfers/)**  
+**https://TU-USUARIO.github.io/silvernight-wolfers/**  
 (Una vez activado GitHub Pages)
-
----
 
 ## 📁 Estructura del proyecto
 
 - `index.html` → Página principal del sitio web.
 - `README.md` → Este archivo de descripción.
-- Otras mejoras visuales o recursos se irán añadiendo aquí.
-
----
 
 ## 📬 Contacto
 
 📧 **silvernightwolfers@gmail.com**
-
----
